@@ -3,4 +3,4 @@ $servername = "localhost";
 $username = "root";
 $pass = "";
 $
-define
+$dbname = "computermart.sql";
